@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Quadrante\Quadrante\bin\Debug\Quadrante.exe.config
+C:\temp\ws-vs2019\Quadrante\Quadrante\bin\Debug\Quadrante.exe
+C:\temp\ws-vs2019\Quadrante\Quadrante\bin\Debug\Quadrante.pdb
+C:\temp\ws-vs2019\Quadrante\Quadrante\obj\Debug\Quadrante.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Quadrante\Quadrante\obj\Debug\Quadrante.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Quadrante\Quadrante\obj\Debug\Quadrante.exe
+C:\temp\ws-vs2019\Quadrante\Quadrante\obj\Debug\Quadrante.pdb
